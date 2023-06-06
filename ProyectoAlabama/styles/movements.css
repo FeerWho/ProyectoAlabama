@@ -1,0 +1,96 @@
+section{
+    width: auto;
+    height: auto;
+    padding: 120px;
+    background-color: #d0d0f0;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    font-style: italic;
+    font-size: 50px;
+    color: #303030;
+    margin-top: -100px;
+    margin-bottom: -5px;
+}
+
+.generic-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #00d0ff;
+    margin-top: 30px;
+}
+
+.close-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fa4040;
+    margin-top: 30px;
+}
+
+.admin-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0d050;
+    margin-top: 30px;
+}
+
+.entrada-control{
+    border-width: 3px;
+    border-color: black;
+    border-style: inset;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    margin: 20px;
+    font-size: large;
+}
+
+th{
+    background-color: rgb(12, 104, 24);
+    color: whitesmoke;
+    border-width: 2px;
+    border-color: black;
+}
+
+td{
+    border-width: 2px;
+    border-color: black;
+}
+
+.table-scroll{
+    overflow: auto;
+    max-height: 500px;
+}
+
+option{
+    font-size: large;
+}

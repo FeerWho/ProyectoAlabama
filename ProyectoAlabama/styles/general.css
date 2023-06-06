@@ -1,0 +1,71 @@
+section{
+    width: 350px;
+    height: auto;
+    padding: 120px;
+    background-color: #d0d0f0;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    font-style: italic;
+    font-size: 50px;
+    color: #303030;
+    margin-top: -100px;
+    margin-bottom: -5px;
+}
+
+.generic-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #00d0ff;
+    margin-top: 30px;
+}
+
+.close-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fa4040;
+    margin-top: 30px;
+}
+
+.admin-btn{
+    border-width: 5px;
+    border-radius: 5%;
+    border-style: outset;
+    border-color: #8080a0;
+    height: 55px;
+    width: 200px;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0d050;
+    margin-top: 30px;
+}
+
+.reload-btn{
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    border-width: 0px;
+}
